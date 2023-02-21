@@ -7,6 +7,7 @@ www.patika.dev
 import java.util.Scanner;
 
 public class Meyve {
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
